@@ -1,0 +1,107 @@
+commit 5cf90b227ce9fdbdd4a576b2071a0449270b285c
+Author: VicBojoDev20 <reybojorgejr@hotmail.com>
+Date:   Mon Mar 10 13:00:42 2025 -0600
+
+    Agregando enlace de la práctica 7
+
+commit 7964c19029637c64b9f97c22d66facd9a03679e5
+Author: VicBojoDev20 <reybojorgejr@hotmail.com>
+Date:   Mon Mar 10 12:56:43 2025 -0600
+
+    v1.1.1
+
+commit 50f398603d38a8a5c0117591b48dca86a67e830e
+Author: VicBojoDev20 <reybojorgejr@hotmail.com>
+Date:   Mon Mar 10 12:53:58 2025 -0600
+
+    v1.1.0
+
+commit 08bc822d6fa1dd8faa7d008f9b2c6711315cf25e
+Author: VicBojoDev20 <reybojorgejr@hotmail.com>
+Date:   Mon Mar 10 12:47:18 2025 -0600
+
+    v1.0.0
+
+commit 3c3121d0c92cd372a59c0e22923ca55c1caed826
+Author: VicBojoDev10 <reybojorgejr@hotmail.com>
+Date:   Wed Mar 5 12:42:54 2025 -0600
+
+    Agregando log de las fusiones de ramas
+
+commit 71eaa39e312ccaf15af6e16d02243147ed0b2f13
+Author: VicBojoDev10 <reybojorgejr@hotmail.com>
+Date:   Wed Mar 5 12:30:57 2025 -0600
+
+    Practica-6-Readme
+
+commit 5073a8838176f080f7c07728b444297fc72e9ada
+Author: VicBojoDev10 <reybojorgejr@hotmail.com>
+Date:   Wed Mar 5 12:14:21 2025 -0600
+
+    Lenguajes-Interpretados
+
+commit d0b4ef60ca9a151b57cb967b3204f2272702a503
+Author: VicBojoDev10 <reybojorgejr@hotmail.com>
+Date:   Mon Mar 3 13:38:13 2025 -0600
+
+    Principios-de-composicion-y-diseño
+
+commit 1714f603bc37472b81a9abbb17c79fddcce5cb7b
+Author: VicBojoDev10 <reybojorgejr@hotmail.com>
+Date:   Mon Mar 3 13:33:18 2025 -0600
+
+    Sistemas-Operativos
+
+commit 6acb3ba6f225390db6db557134941135ac94bedc
+Author: VicBojoDev10 <reybojorgejr@hotmail.com>
+Date:   Mon Mar 3 13:26:47 2025 -0600
+
+    Proyecto-de-App
+
+commit 22ef169e2f8c4dd4d74aecffb6d7b7ccb2b426b0
+Author: VicBojoDev10 <reybojorgejr@hotmail.com>
+Date:   Mon Mar 3 13:09:10 2025 -0600
+
+    Empezando Práctica 6
+
+commit 13a81576ba7c09777495810453b5f7a78dfee6fd
+Author: VicBojoDev10 <reybojorgejr@hotmail.com>
+Date:   Wed Feb 26 13:16:11 2025 -0600
+
+    Agregando enlace y contenido de la Práctica 5
+
+commit b5b0519d2c7ad4af3c6cf44467aee3e8bb456f04
+Author: VicBojoDev10 <reybojorgejr@hotmail.com>
+Date:   Mon Feb 24 13:10:28 2025 -0600
+
+    Agregando enlace y contenido de la Práctica 3
+
+commit 42ea61616ed7ed085ce1c74b69779e77d90ba2c2
+Author: VicBojoDev10 <reybojorgejr@hotmail.com>
+Date:   Mon Feb 24 13:00:48 2025 -0600
+
+    practica 3
+
+commit 3096e3379ccb60e47211227031e13ad520914641
+Author: VicBojoDev10 <reybojorgejr@hotmail.com>
+Date:   Mon Feb 24 12:51:35 2025 -0600
+
+    config
+
+commit 84387bd453858ccd8673960fdddc6d33ae904c91
+Author: VicBojoDev10 <reybojorgejr@hotmail.com>
+Date:   Mon Feb 24 12:40:56 2025 -0600
+
+    "Agregando licencia al repositorio"
+
+commit 8b2db57855f57f5df8d666df392ecceb0dcdd441
+Author: VicBojoDev10 <reybojorgejr@hotmail.com>
+Date:   Mon Feb 24 12:27:34 2025 -0600
+
+    Creando archivo .gitignore
+
+commit 983aa77ab34c5cb3422236d6d89956fc5529bb69
+Author: Victor Bojorges <reybojorgejr@hotmail.com>
+Date:   Wed Feb 19 11:58:49 2025 -0600
+
+    primer commit

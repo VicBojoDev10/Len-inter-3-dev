@@ -6,3 +6,4 @@
 - [Practica-5](/practica-5.md)
 - [Practica-6](/practica-6.md)
 - [Practica-7](/practica-7.md)
+- [Practica-8](/practica-8.md)
