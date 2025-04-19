@@ -8,3 +8,4 @@
 - [Practica-7](/practica-7.md)
 - [Practica-8](/practica-8.md)
 - [Practica-12/Video-Juego](/video-juego.md)
+- [Practica-13](/docs/mi-serie-favorita/index.html)
