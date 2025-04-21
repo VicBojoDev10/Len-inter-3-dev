@@ -1,0 +1,77 @@
+:root 
+{
+    /*Variable*/
+    --white: #ffffff;
+    --black: #000000;
+    --yellow: #ffff00;
+    --fontSeriff: sans-serif;
+}
+body {
+    /*Fuente*/
+    font-family: var(--fontSeriff);
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 200;
+    color:var(--black);
+    background-color: var(--yellow);
+    
+}
+html{
+    /*tamaño Letra*/
+    font-family: var(--fontSeriff);
+    font-size: 100%;
+    box-sizing: border-box;
+}
+link{
+/*Color Link*/
+    color: orange;
+}
+a:hover{
+    color:var(--white);
+}
+img{
+    /*Img width*/
+    max-width: 100%;
+}
+#Titulo{
+font-family: var(--fontSeriff);
+font-size: 30px;
+text-align: center;
+}
+#Medios{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+#MarcaDeAgua{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    text-align: left;
+}
+.bg-Yellow{
+    background-color: var(--yellow);
+}
+.text-color{
+    color: var(--black);
+}
+.text-justified{
+    text-align: justify;
+}
+*{
+    border-image-width: auto;
+    image-resolution: 720p;
+    text-size-adjust: normal;
+}
+personajes {
+    background-color: yellow;
+}
+personajes li:first-child{
+    background-color: rgba(255, 255, 0, 0.726);
+}
+personajes li:last-child{
+    background-color: #ffff006c;
+}
+personajes li:nth-last-child
+{
+    background-color: #ffff0048;
+}
