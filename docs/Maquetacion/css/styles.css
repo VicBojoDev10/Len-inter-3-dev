@@ -1,4 +1,24 @@
 * {
     box-sizing: border-box;
 }
+/*
+.alias{
+    
+}
+*/
 
+.gridhello{
+    display: grid;
+    grid-template-columns: 100%;
+}
+
+@media screen and (min-width: 760px){
+    
+
+}
+@media screen and (min-width: 1020px){
+    
+}
+@media screen and (min-width: 760px){
+    
+}
