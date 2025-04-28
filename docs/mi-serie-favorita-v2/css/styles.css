@@ -1,0 +1,67 @@
+:root 
+{
+    /*Variable*/
+    --white: #ffffff;
+    --black: #000000;
+    --orange: #e9b831fa;
+    --fonttimes: 'Times New Roman';
+}
+body {
+    /*Fuente*/
+    font-style: normal;
+    color:var(--black);
+    background-color: var(--orange);
+    
+}
+a:hover{
+    color:var(--white);
+}
+img{
+    /*Img width*/
+    max-width: 100%;
+}
+#Titulo{
+font-size: 30px;
+text-align: center;
+}
+#inicio{
+    font-size: medium;
+    display:block;
+    margin:auto;
+    width: medium;
+
+}
+#Temporadas{
+    border-color: #ffffff;
+    border-left-color: var(--orange);
+    border-right-color: red;
+    border-width:0.5cm;
+}
+#Medios{
+    text-align: justify;
+    display:flexbox;
+    margin:auto;
+    width: 50%;
+}
+#MarcaDeAgua{
+    font-size: medium;
+    text-align: left;
+}
+
+*{
+    font-family: var(--fonttimes);
+    font-size: large;
+}
+
+.personajes {
+    text-align: center;
+}
+@media only screen and (min-width:380px) and (max-width: 1200px){
+    .container{
+        
+        text-align: auto;
+        grid-template-columns: auto;
+       
+    }
+    
+}
