@@ -54,6 +54,7 @@ text-align: center;
 }
 
 .personajes {
+    
     text-align: center;
 }
 @media only screen and (min-width:380px) and (max-width: 1200px){
@@ -65,3 +66,53 @@ text-align: center;
     }
     
 }
+/* Prompt gpt */
+/* --- Modo oscuro --- */
+.dark-mode {
+    background-color: #1a1a1a;
+    color: #ffffff;
+  }
+  .dark-mode a {
+    color: #f0c040;
+  }
+  .dark-mode nav,
+  .dark-mode header {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  /* --- Botón de cambio de tema --- */
+  .toggle-theme {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 1.5rem;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* --- Navbar responsiva --- */
+  nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
+    list-style: none;
+    gap: 1rem;
+  }
+  nav ul li {
+    margin: 0.5em;
+  }
+  nav a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  @media (max-width: 768px) {
+    nav ul {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
