@@ -92,27 +92,40 @@ text-align: center;
     cursor: pointer;
   }
   
-  /* --- Navbar responsiva --- */
-  nav ul {
+/* Navbar responsiva chatpgt*/
+.hamburger {
+  display: none;
+  font-size: 2rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: inherit;
+  margin: 0.5em;
+}
+
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+  gap: 1em;
+  padding: 0;
+  margin: 0;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
+
+  .navbar ul {
+    display: none;
+    flex-direction: column;
+    background-color: var(--background-color, white);
+    padding: 1em;
+    border: 1px solid #ccc;
+  }
+
+  .navbar.active ul {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    padding: 0;
-    list-style: none;
-    gap: 1rem;
   }
-  nav ul li {
-    margin: 0.5em;
-  }
-  nav a {
-    text-decoration: none;
-    color: inherit;
-  }
-  
-  @media (max-width: 768px) {
-    nav ul {
-      flex-direction: column;
-      align-items: center;
-    }
-  }
-  
+}

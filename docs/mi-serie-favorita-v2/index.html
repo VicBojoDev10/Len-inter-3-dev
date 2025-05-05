@@ -12,26 +12,19 @@
   <body>
     <header> 
       <h1 id="Titulo"> Malcolm In The Middle </h1>
+      <!-- Boton Hamburguesa prompt chatgpt-->
       <img src="./PaginaImagenes/Malcolm_in_the_Middle_logo.jpg" alt="LogoMalcolm">
-      <nav>
-        <ul>
-          <li> 
-           <a href="#Inicio">Inicio</a>
-          </li>
-          <li>
-           <a href="#Acerca">Acerca</a>
-          </li>
-          <li> 
-            <a href="#Personajes">Personajes</a> 
-          </li>
-          <li>
-            <a href="#Temporadas">Temporadas</a> 
-          </li>
-          <li> 
-            <a href="#Medios">Medios</a> 
-          </li>
-        </ul>
-      </nav>
+      <button class="hamburger" onclick="toggleMenu()">☰</button>
+        <nav id="navbar" class="navbar">
+         <ul>
+          <li><a href="#Inicio">Inicio</a></li>
+          <li><a href="#Acerca">Acerca</a></li>
+          <li><a href="#Personajes">Personajes</a></li>
+          <li><a href="#Temporadas">Temporadas</a></li>
+          <li><a href="#Medios">Medios</a></li>
+          </ul>
+        </nav>
+
       <!-- Botón de cambio de tema / Prompt chat gpt-->
        <button id="toggle-theme" class="toggle-theme" onclick="toggleTheme()">🌙</button>
     </header>
@@ -287,3 +280,10 @@
     </footer>    
   </body>
 </html>
+<!--PromptChatgpt-->
+<script>
+  function toggleMenu() {
+    const navbar = document.getElementById('navbar');
+    navbar.classList.toggle('active');
+  }
+</script>
